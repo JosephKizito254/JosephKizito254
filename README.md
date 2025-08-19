@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ****josephkizito707@gmail.com****
 
-- 📄 Know about my experiences [https://www.mediafire.com/file/1nrfkgo29kzalz5/joseph+kizito+professional+cv.pdf/file](https://www.mediafire.com/file/1nrfkgo29kzalz5/joseph+kizito+professional+cv.pdf/file)
+- 📄 Know about my experiences [https://www.mediafire.com/file/1nrfkgo29kzalz5/joseph+kizito+professional+cv.pdf/file](https://www.mediafire.com/file/1ftd1p8kp2m9e3h/joseph+kizito+professional+CV+(1).pdf/file)
 
 - ⚡ Fun fact ****I think I am funny 😄****
 
