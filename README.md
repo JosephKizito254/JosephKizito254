@@ -1,21 +1,73 @@
-<h1 align="center">Hi 👋, I'm I'm Joseph Omollo Kizito</h1>
-<h3 align="center">A passionate Frontend Developer from Kenya</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Joseph%20Kizito&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Frontend%20Developer&descSize=18&descAlignY=60" alt="Joseph Kizito" />
 
-- 🌱 I’m currently learning ****TypeScript, React, Vue.js, and Advanced CSS animations****
-
-- 💬 Ask me about ****React, Vue.js, and GSAP****
-
-- 📫 How to reach me ****josephkizito707@gmail.com****
-
-- 📄 Know about my experiences [https://www.mediafire.com/file/1nrfkgo29kzalz5/joseph+kizito+professional+cv.pdf/file](https://www.mediafire.com/file/1ftd1p8kp2m9e3h/joseph+kizito+professional+CV+(1).pdf/file)
-
-- ⚡ Fun fact ****I think I am funny 😄****
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josephdev254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josephdev254/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/joseph-kizito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/joseph-kizito" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Dashboards+people+actually+use;Open+to+remote+and+freelance+analytics+work" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Location-Kenya-black?style=flat" alt="Kenya" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+## About Me
+
+I'm a Kenya-based **data analyst with a frontend engineering background**. I clean and analyze data, then present the findings through clear dashboards and interactive web visuals.
+
+- 📊 **Focus:** business analytics, KPI dashboards, reporting, data storytelling
+- 🔭 **Currently strengthening:** advanced SQL, Python (pandas), Power BI, statistics
+- 🌍 **Available for:** remote roles, freelance projects, collaborations
+- 💬 **Ask me about:** SQL, Power BI, data visualization, React, Vue.js, GSAP
+
+## Tech Stack
+
+**Data & Analytics**
+
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,mongodb,powerbi,excel,tableau&theme=dark" alt="Data stack" />
+
+**Frontend (for interactive dashboards and data products)**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind&theme=dark" alt="Frontend stack" />
+
+**Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,git,github,bash,figma&theme=dark" alt="Tools" />
+
+## What I Do
+
+| Area | Tools | Output |
+|------|-------|--------|
+| Querying | SQL (MySQL, PostgreSQL, MSSQL) | Clean datasets, joins, CTEs, window functions |
+| Analysis | Python, pandas, NumPy, Excel | Cleaning, EDA, automation |
+| Dashboards | Power BI, Tableau, Excel | KPI dashboards and reports |
+| Web visuals | React, Vue, TypeScript, GSAP | Interactive, animated data experiences |
+
+## Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| Profit & Restock Tracker | Spreadsheet tracker for small businesses | Excel, Google Sheets |
+| *Add project 2* | One-line problem and result | Tools used |
+| *Add project 3* | One-line problem and result | Tools used |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josephdev254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dribbble.com/joseph-kizito"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  <a href="mailto:josephkizito707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.mediafire.com/file/1ftd1p8kp2m9e3h/joseph+kizito+professional+CV+(1).pdf/file"><img src="https://img.shields.io/badge/Download%20CV-2ea44f?style=for-the-badge" alt="CV" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
